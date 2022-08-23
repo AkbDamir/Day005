@@ -21,38 +21,3 @@ void PairArr(int[] num)
 
 int[] array = {6, 7, 3, 6};
 PairArr(array);
-
-/*int[] arr1 = new int[k];
-int[] arr2 = new int[k];
-
-for(int i = 0; i < k; i++)
-{
-    arr1 = new int[array[i]];
-    arr2 = new int[array[n - 1 - i]];
-}
-void PrintArr(int[] number)
-{
-    int count = number.Length;
-    int pos = 0;
-    while (pos < count)
-    {
-        Console.Write(number[pos] + ", ");
-        pos++;
-    }
-}
-PrintArr(arr1);
-
-
-void FillArray(int[] random)
-{
-    int length = random.Length;
-    int index = 0;
-    while (index < length)
-    {
-        random[index] = new ;
-        index++;
-    }
-}
-int[] arr3 = new int[k];
-FillArray(arr3);
-Console.Write(arr3);*/
